@@ -4,10 +4,21 @@
 
 ## Index
 
-- [Hello World](./HelloWorld.scala)
+### Week 1
+- Installation
+
+### Week 2
+- [Hello World](./Week_2/HelloWorld.scala)
 - Operartors
-    - [Airthmetic Operators](./AirthmeticOperators.scala)
-    - [Logical Operators](./LogicallOperators.scala)
+    - [Airthmetic Operators](./Week_2/AirthmeticOperators.scala)
+    - [Logical Operators](./Week_2/LogicallOperators.scala)
     - [Relational Operators](./RelationalOperators.scala)
-- [Shorthand Operators](./ShorthandOperators.scala)
-- [Mutable vs Immutable objects](./ValvsVar.scala)
+- [Shorthand Operators](./Week_2/ShorthandOperators.scala)
+- [Mutable vs Immutable objects](./Week_2/ValvsVar.scala)
+
+### Week 3
+- I/O statements
+    - [Print statements](./Week_3/printFunctions.scala)
+    - [Input statements](./Week_3/readlineFunctions.scala)
+- [Keywords demonstration](./Week_3/keywords.scala)
+- [Integer sum demonstration](./Week_3/sum.scala)

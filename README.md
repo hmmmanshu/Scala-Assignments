@@ -8,12 +8,12 @@
 - Installation
 
 ### Week 2
-- [Hello World](./Week_2/HelloWorld.scala)
+- [Hello world](./Week_2/HelloWorld.scala)
 - Operartors
-    - [Airthmetic Operators](./Week_2/AirthmeticOperators.scala)
-    - [Logical Operators](./Week_2/LogicallOperators.scala)
-    - [Relational Operators](./RelationalOperators.scala)
-- [Shorthand Operators](./Week_2/ShorthandOperators.scala)
+    - [Airthmetic operators](./Week_2/AirthmeticOperators.scala)
+    - [Logical operators](./Week_2/LogicallOperators.scala)
+    - [Relational operators](./RelationalOperators.scala)
+- [Shorthand operators](./Week_2/ShorthandOperators.scala)
 - [Mutable vs Immutable objects](./Week_2/ValvsVar.scala)
 
 ### Week 3
@@ -22,3 +22,6 @@
     - [Input statements](./Week_3/readlineFunctions.scala)
 - [Keywords demonstration](./Week_3/keywords.scala)
 - [Integer sum demonstration](./Week_3/sum.scala)
+
+### Week 4
+- [Nested fuctions](./Week_4/Min_Max_Nested.scala)

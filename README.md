@@ -24,4 +24,5 @@
 - [Integer sum demonstration](./Week_3/sum.scala)
 
 ### Week 4
-- [Nested fuctions](./Week_4/Min_Max_Nested.scala)
+- [Single nested fuctions](./Week_4/EvenOdd.scala)
+- [Multiple nested fuctions](./Week_4/EvenOdd2.scala)

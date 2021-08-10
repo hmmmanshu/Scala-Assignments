@@ -32,3 +32,4 @@
 - [Calculator](./Week_5/Calculator.scala)
 - [Prime Check](./Week_5/PrimeCheck.scala)
 - [Units converter](./Week_5/Conversion.scala)
+- [Powers](./Week_5/Power.scala)

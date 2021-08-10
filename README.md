@@ -27,3 +27,7 @@
 - [Single nested fuctions](./Week_4/EvenOdd.scala)
 - [Multiple nested fuctions](./Week_4/EvenOdd2.scala)
 - [Inline functions](./Week_4/InlineFunctions.scala)
+
+### Week 5
+- [Calculator](./Week_5/Calculator.scala)
+- [Prime Check](./Week5/PrimeCheck.scala)

@@ -31,3 +31,4 @@
 ### Week 5
 - [Calculator](./Week_5/Calculator.scala)
 - [Prime Check](./Week5/PrimeCheck.scala)
+- [Units converter](./Week5/Conversion.scala)

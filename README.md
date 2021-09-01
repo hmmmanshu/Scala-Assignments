@@ -33,3 +33,9 @@
 - [Prime Check](./Week_5/PrimeCheck.scala)
 - [Units converter](./Week_5/Conversion.scala)
 - [Powers](./Week_5/Power.scala)
+
+### Week 7
+- [For loop variants](./Week_7/Q1.scala)
+- [List operations](./Week_7/Q2.scala)
+- [Reverse and fill list](./Week_7/Q3.scala)
+- [Functions for list operations](./Week_7/Q4.scala)

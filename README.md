@@ -34,6 +34,12 @@
 - [Units converter](./Week_5/Conversion.scala)
 - [Powers](./Week_5/Power.scala)
 
+### Week 6
+- [Closures](./Week_6/Q1.scala)
+- [Free and Biunded variables](./Week_6/Q2.scala)
+- [Single trait](./Week_6/Q3.scala)
+
+
 ### Week 7
 - [For loop variants](./Week_7/Q1.scala)
 - [List operations](./Week_7/Q2.scala)

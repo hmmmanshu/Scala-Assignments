@@ -16,9 +16,9 @@ object Calculator {
 
         if (choice == 1) {
         println(add(a, b));
-        } else if (choice == 1) {
+        } else if (choice == 2) {
         println(subtract(a, b));
-        } else if (choice == 1) {
+        } else if (choice == 3) {
         println(multiply(a, b));
         } else {
         println(divide(a, b));

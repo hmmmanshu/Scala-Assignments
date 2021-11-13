@@ -1,7 +1,7 @@
-object Q2{
+object closures{
     def main(args: Array[String]):Unit={
         var name = "Himanshu";
-        print(isEligible(12, name));
+        isEligible(12, name);
     }
     var valid_age = 18;
     def isEligible(age: Int, name: String) = {

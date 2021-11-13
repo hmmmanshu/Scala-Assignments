@@ -1,4 +1,4 @@
-object Q4 {
+object method_implementations {
   def main(args: Array[String]): Unit = {
     println("|=====================|")
     println("|Name : Himanshu Negi |")

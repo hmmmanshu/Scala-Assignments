@@ -1,4 +1,4 @@
-object Q7{
+object max_of_both{
     def main(args:Array[String]):Unit={
         println("|=====================|")
         println("|Name : Himanshu Negi |")

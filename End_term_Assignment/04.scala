@@ -6,8 +6,13 @@ object tailrec{
         println("|Section : DS         |")
         println("|Roll No : 32         |")
         println("|=====================|")
-        println(factorial(5))
-        println(gcd(10, 4))
+        println("Enter two numbers")
+        var a = scala.io.StdIn.readInt()
+        var b = scala.io.StdIn.readInt()
+        print(s"Factorial of $a = ")
+        println(factorial(a))
+        print(s"GCD of $a, $b = ")
+        println(gcd(a, b))
     }
     
     def factorial(n: Int): Int = {

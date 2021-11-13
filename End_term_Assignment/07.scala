@@ -1,5 +1,5 @@
 object Q7{
-    def main():Unit={
+    def main(args:Array[String]):Unit={
         var list1 = List(99.5, 100, 50, 55, 70, 100, -1)
         var list2 = List(10, 20, 30, 40, 50)
         print("Concatenated : ")

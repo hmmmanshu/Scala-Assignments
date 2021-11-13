@@ -36,7 +36,7 @@
 
 ### Week 6
 - [Closures](./Week_6/Q1.scala)
-- [Free and Biunded variables](./Week_6/Q2.scala)
+- [Free and Bound variables](./Week_6/Q2.scala)
 - [Single trait](./Week_6/Q3.scala)
 
 

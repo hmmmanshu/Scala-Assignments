@@ -1,7 +1,7 @@
 trait car
 {
     def steer:Unit;
-    def Start:Unit={ 
+    def Start():Unit={ 
         println("Firing up engine")
     }
 }
@@ -18,6 +18,6 @@ object printValues
     def main(args: Array[String]):Unit={
         val ob = new DemoClass();
         ob.steer();
-        ob.drive();
+        ob.Start();
     }
 }

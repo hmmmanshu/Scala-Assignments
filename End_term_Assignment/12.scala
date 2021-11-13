@@ -12,6 +12,11 @@ object DataScience{
         data_desc.show()
     }
     def main(args: Array[String]): Unit = {
+        println("|=====================|")
+        println("|Name : Himanshu Negi |")
+        println("|Section : DS         |")
+        println("|Roll No : 32         |")
+        println("|=====================|")
         dataViz()
         dataDescription("himanshu/Desktop/sample.csv")
     }

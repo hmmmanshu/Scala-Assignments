@@ -1,6 +1,10 @@
 object Calculator {
     def main(args: Array[String]):Unit= {
-        // input
+        println("|=====================|")
+        println("|Name : Himanshu Negi |")
+        println("|Section : DS         |")
+        println("|Roll No : 32         |")
+        println("|=====================|")
         println("Enter two numbers");
         val a = scala.io.StdIn.readInt();
         val b = scala.io.StdIn.readInt();

@@ -5,6 +5,11 @@ object Q2{
     }
     var valid_age = 18;
     def isEligible(age: Int, name: String) = {
+        println("|=====================|")
+        println("|Name : Himanshu Negi |")
+        println("|Section : DS         |")
+        println("|Roll No : 32         |")
+        println("|=====================|")
         if(age>=valid_age)
             println(s"$name of age $age is eligible");
         else

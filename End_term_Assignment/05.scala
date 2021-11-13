@@ -1,6 +1,11 @@
 // demonstrate all builtin operation on lists
 object lists{
     def main(args:Array[String]):Unit={
+        println("|=====================|")
+        println("|Name : Himanshu Negi |")
+        println("|Section : DS         |")
+        println("|Roll No : 32         |")
+        println("|=====================|")
         val list = List(1,2,3,4,5)
         println(list)
         println(list.head)

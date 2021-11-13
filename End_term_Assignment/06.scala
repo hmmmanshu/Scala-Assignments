@@ -1,12 +1,21 @@
-import scala.compiletime.ops.int
 object Q4 {
-  def main(args: Array[String]):Unit= {}
+  def main(args: Array[String]):Unit= {
+    var list = List(1,2,3,4,5,6,7,8,9,10);
+    println(removeDuplicates(list));
+    println(find_ele(list,5));
+    println(listLength(list));
+    println(sort(list));
+    println(sum(list));
+    println(listToString(list));
+    println(smallest(list));
+    println(maximum(list));
+  }
   def removeDuplicates(list: List[Int]):Unit= {
     var newList = list.distinct;
     println(newList);
   }
-  def find(list: List[Int], ele: Int, ind: Int):Int= {
-    return list.find(ele, ind);
+  def find_ele(list: List[Int], ele: Int):Boolean= {
+    return list.contains(ele);
   }
   def listLength(list: List[Int]):Int=  {
     return list.length;
@@ -20,7 +29,7 @@ object Q4 {
   def listToString(list: List[Int]):String=  {
     return list.toString();
   }
-  def smallest(list: List[Int]):List[Int]=  {
+  def smallest(list: List[Int]):Int=  {
     return list.min;
   }
   def maximum(list: List[Int]):Int=  {
